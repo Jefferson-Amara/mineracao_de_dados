@@ -12,3 +12,8 @@ def funcao_teste_3()
 	print("teste de commit secundario")
 
 funcao_teste_3()
+
+def funcao_teste_4():
+	print("teste sub branch")
+
+funcao_teste_4()
